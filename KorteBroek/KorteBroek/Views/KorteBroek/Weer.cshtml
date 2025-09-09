@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Weer";
+
+}
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<h1>Het advies</h1>
+<p>Het advies is: <strong>
+    @if (ViewBag.overWrite)
+    {
+        <span style="color:darkslateblue">a</span>
+        return;
+    }
+    @if (ViewBag.IsHot)
+    {
+        <span style="color:green">Ja, je kan een korte broek aan!</span>
+    }
+    else
+    {
+        <span style="color:red">Nee, geen korte broek vandaag.</span>
+    }
+
+</strong></p>
+
+</body>
+</html>
