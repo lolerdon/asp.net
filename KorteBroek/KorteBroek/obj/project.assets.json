@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sami2\\OneDrive - Summacollege O365\\programmeren\\periode 3\\progr\\C#\\KorteBroek\\KorteBroek\\KorteBroek.csproj",
+      "projectUniqueName": "C:\\Users\\sami2\\Desktop\\gitRepo\\asp.net\\KorteBroek\\KorteBroek\\KorteBroek.csproj",
       "projectName": "KorteBroek",
-      "projectPath": "C:\\Users\\sami2\\OneDrive - Summacollege O365\\programmeren\\periode 3\\progr\\C#\\KorteBroek\\KorteBroek\\KorteBroek.csproj",
+      "projectPath": "C:\\Users\\sami2\\Desktop\\gitRepo\\asp.net\\KorteBroek\\KorteBroek\\KorteBroek.csproj",
       "packagesPath": "C:\\Users\\sami2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sami2\\OneDrive - Summacollege O365\\programmeren\\periode 3\\progr\\C#\\KorteBroek\\KorteBroek\\obj\\",
+      "outputPath": "C:\\Users\\sami2\\Desktop\\gitRepo\\asp.net\\KorteBroek\\KorteBroek\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

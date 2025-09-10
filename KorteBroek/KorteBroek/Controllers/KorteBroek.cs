@@ -1,5 +1,4 @@
-﻿using System.Text.Encodings.Web;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace KorteBroek.Controllers;
 
@@ -11,7 +10,7 @@ public class KorteBroek : Controller
     {
         bool isHot;
         bool overWrite = false;
-        if (temp >= 20 && rainChance >= 50)
+        if (temp >= 20 && rainChance <= 50)
         {
             isHot = true;
         }

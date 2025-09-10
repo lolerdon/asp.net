@@ -23,9 +23,25 @@ body {
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
     color: var(--bs-secondary-color);
-    text-align: end;
+    text-align: end
 }
 
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
+}
+
+h1{
+    color: #004e70;
+    text-align: center;
+}
+
+.formDiv{
+    position: fixed;
+    width: 50%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    bottom: 50%;
+    left: 25%;
 }

@@ -12,13 +12,16 @@
     <title>Document</title>
 </head>
 <body>
+<div class="formDiv">
 <h1>Kan ik vandaag een korte broek aan?</h1>
 <form method="post" asp-controller="KorteBroek" asp-action="Weer">
-    <input type="number" name="temp" placeholder="Temperature in °C" required>
-    <input type="number" name="rainChance" placeholder="Kans in %" required/>
-    <input type="number" name="ID" placeholder="ID"/>
-    <button type="submit">Check</button>
+    <div class="flexbox">
+        <input type="number" name="temp" placeholder="Temperature in °C" required>
+        <input type="number" name="rainChance" placeholder="Kans in %" min="0" required/>
+        <input type="number" name="ID" placeholder="ID"/>
+        <button type="submit">Check</button>
+    </div>
 </form>
-
+</div>
 </body>
 </html>
