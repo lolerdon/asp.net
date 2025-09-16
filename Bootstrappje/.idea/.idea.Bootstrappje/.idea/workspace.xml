@@ -4,8 +4,43 @@
     <projectFile profileName="http">Bootstrappje/Bootstrappje.csproj</projectFile>
     <projectFile profileName="https">Bootstrappje/Bootstrappje.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="548f10cc-6402-4a59-96ea-4b2923a183a1" name="Changes" comment="" />
+    <list default="true" id="548f10cc-6402-4a59-96ea-4b2923a183a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bootstrappje/Controllers/ResponsiveController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrappje/Views/Responsive/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bootstrappje/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bootstrappje/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/bin/Debug/net9.0/Bootstrappje.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/bin/Debug/net9.0/Bootstrappje.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/bin/Debug/net9.0/Bootstrappje.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/bin/Debug/net9.0/Bootstrappje.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/bin/Debug/net9.0/Bootstrappje.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/bin/Debug/net9.0/Bootstrappje.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/bin/Debug/net9.0/Bootstrappje.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/bin/Debug/net9.0/Bootstrappje.staticwebassets.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/bin/Debug/net9.0/Bootstrappje.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/bin/Debug/net9.0/Bootstrappje.staticwebassets.runtime.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/Bootstrappje.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/compressed/atwslsrghp-43atpzeawx.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/rbcswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/rbcswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/ref/Bootstrappje.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/ref/Bootstrappje.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/refint/Bootstrappje.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/refint/Bootstrappje.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/rjimswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/rjimswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/rpswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/staticwebassets.build.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/staticwebassets.build.json.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/staticwebassets.build.json.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/obj/Debug/net9.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrappje/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrappje/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +52,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Bootstrappje/Controllers/ResponsiveController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Bootstrappje/Views/Responsive/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="32VcPagiBz9gKDhUJGogQLDJkYK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +77,12 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -82,6 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757509158144</updated>
       <workItem from="1757509160438" duration="169000" />
+      <workItem from="1757660829158" duration="7472000" />
     </task>
     <servers />
   </component>

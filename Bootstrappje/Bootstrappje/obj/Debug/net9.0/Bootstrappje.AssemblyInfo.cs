@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bootstrappje")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dca510d5e592ccb5a1a249925a4b5ba815c7f5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d813e9ff9aaace28870da0b6c90aaa987d5c92fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bootstrappje")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bootstrappje")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
