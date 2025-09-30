@@ -91,3 +91,7 @@ C:\Users\sami2\Desktop\gitRepo\asp.net\Bootstrappje\Bootstrappje\obj\Debug\net9.
 C:\Users\sami2\Desktop\gitRepo\asp.net\Bootstrappje\Bootstrappje\obj\Debug\net9.0\Bootstrappje.genruntimeconfig.cache
 C:\Users\sami2\Desktop\gitRepo\asp.net\Bootstrappje\Bootstrappje\obj\Debug\net9.0\ref\Bootstrappje.dll
 C:\Users\sami2\Desktop\gitRepo\asp.net\Bootstrappje\Bootstrappje\obj\Debug\net9.0\compressed\atwslsrghp-aw59jzltl7.gz
+C:\Users\sami2\Desktop\gitRepo\asp.net\Bootstrappje\Bootstrappje\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\sami2\Desktop\gitRepo\asp.net\Bootstrappje\Bootstrappje\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\sami2\Desktop\gitRepo\asp.net\Bootstrappje\Bootstrappje\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\sami2\Desktop\gitRepo\asp.net\Bootstrappje\Bootstrappje\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
