@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Wordle.Models.Words>
+@using Wordle.Models;
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Letters)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Lenght)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedAt)
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Letters)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lenght)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedAt)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+    
+</table>
+
+<h4>Search By Lenght</h4>
+<form asp-action="Index" method="get" class="form-inline mb-3">
+    <div class="form-group m-1">
+        <label for="length" class="mr-2">Length:</label>
+        <input type="number" name="length" id="length" min="1" class="form-control" value="@(ViewData["CurrentFilterLength"] ?? "")" />
+    </div>
+    <button type="submit" class="btn btn-primary ml-2">Search</button>
+    <a asp-action="Index" class="btn btn-secondary ml-2">Clear</a>
+</form>
+
+@if (ViewData["CurrentFilterLength"] != null)
+{
+    <div class="mb-3">Filtering by length: <strong>@ViewData["CurrentFilterLength"]</strong></div>
+}

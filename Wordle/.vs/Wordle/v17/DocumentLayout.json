@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sami2\\Desktop\\gitRepo\\asp.net\\Wordle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C11CD4-072D-4FA0-A9AB-509FAC572FFB}|Wordle\\Wordle.csproj|c:\\users\\sami2\\desktop\\gitrepo\\asp.net\\wordle\\wordle\\migrations\\20251021081112_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C11CD4-072D-4FA0-A9AB-509FAC572FFB}|Wordle\\Wordle.csproj|solutionrelative:wordle\\migrations\\20251021081112_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C11CD4-072D-4FA0-A9AB-509FAC572FFB}|Wordle\\Wordle.csproj|c:\\users\\sami2\\desktop\\gitrepo\\asp.net\\wordle\\wordle\\models\\words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C11CD4-072D-4FA0-A9AB-509FAC572FFB}|Wordle\\Wordle.csproj|solutionrelative:wordle\\models\\words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C11CD4-072D-4FA0-A9AB-509FAC572FFB}|Wordle\\Wordle.csproj|c:\\users\\sami2\\desktop\\gitrepo\\asp.net\\wordle\\wordle\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C11CD4-072D-4FA0-A9AB-509FAC572FFB}|Wordle\\Wordle.csproj|solutionrelative:wordle\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251021081112_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sami2\\Desktop\\gitRepo\\asp.net\\Wordle\\Wordle\\Migrations\\20251021081112_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Wordle\\Migrations\\20251021081112_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sami2\\Desktop\\gitRepo\\asp.net\\Wordle\\Wordle\\Migrations\\20251021081112_InitialCreate.cs",
+              "RelativeToolTip": "Wordle\\Migrations\\20251021081112_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:11:12.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordsController.cs",
+              "DocumentMoniker": "C:\\Users\\sami2\\Desktop\\gitRepo\\asp.net\\Wordle\\Wordle\\Controllers\\WordsController.cs",
+              "RelativeDocumentMoniker": "Wordle\\Controllers\\WordsController.cs",
+              "ToolTip": "C:\\Users\\sami2\\Desktop\\gitRepo\\asp.net\\Wordle\\Wordle\\Controllers\\WordsController.cs",
+              "RelativeToolTip": "Wordle\\Controllers\\WordsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:09:27.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Words.cs",
+              "DocumentMoniker": "C:\\Users\\sami2\\Desktop\\gitRepo\\asp.net\\Wordle\\Wordle\\Models\\Words.cs",
+              "RelativeDocumentMoniker": "Wordle\\Models\\Words.cs",
+              "ToolTip": "C:\\Users\\sami2\\Desktop\\gitRepo\\asp.net\\Wordle\\Wordle\\Models\\Words.cs",
+              "RelativeToolTip": "Wordle\\Models\\Words.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:05:19.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
