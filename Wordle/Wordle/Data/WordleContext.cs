@@ -12,6 +12,7 @@ namespace Wordle.Data
         public WordleContext (DbContextOptions<WordleContext> options)
             : base(options)
         {
+            
         }
 
         public DbSet<Wordle.Models.Words> Words { get; set; } = default!;

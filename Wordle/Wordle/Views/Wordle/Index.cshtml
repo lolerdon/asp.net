@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Wordle";
+}
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="~/css/site.css">
+    <title>Document</title>
+    <script src="~/js/site.js"></script>
+</head>
+<body>
+<div class="game-container">
+    <h1>Wordle</h1>
+    <div id="board" class="board"></div>
+    <input type="text" id="guess-input" maxlength="5" autofocus>
+    <button id="submit-guess" onclick="submitGuess()">Submit Guess</button>
+    <div  class="message"><p id="message"></p></div>
+    <div><p>Matching Letters: <strong id="matchingLetters"></strong></p></div>
+    <div><p>Not Matching Letters: <strong id="notMatchingLetters"></strong></p></div>
+</div>
+</body>
+</html>

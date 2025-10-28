@@ -30,7 +30,7 @@ namespace Wordle.Controllers
 
             if (length.HasValue)
             {
-                // Words.Lenght is stored as a string in the model. Compare against the string form to ensure EF can translate the expression to SQL.
+                
                 var lengthStr = length.Value.ToString();
                 query = query.Where(w => w.Lenght == lengthStr);
             }
@@ -46,8 +46,7 @@ namespace Wordle.Controllers
                 return NotFound();
             }
 
-            var words = await _context.Words
-                .FirstOrDefaultAsync(m => m.Id == id);
+            var words = await _context.Words.FirstOrDefaultAsync(m => m.Id == id);
             if (words == null)
             {
                 return NotFound();
