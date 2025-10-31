@@ -165,5 +165,10 @@ namespace Wordle.Controllers
         {
             return _context.Words.Any(e => e.Id == id);
         }
+        
+        public List<string> GetWordList()
+        {
+            return _context.Words.Select(w => w.Letters).ToList();
+        }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Wordle.Data;
 
 namespace Wordle.Controllers;
 
@@ -7,20 +8,9 @@ public class WordleController : Controller
     // GET
     public IActionResult Index()
     {
-        //return view with the chosen word
-        var words = new List<string>
-        {
-            "apple",
-            "grape",
-            "peach",
-            "mango",
-            "berry",
-            "lemon",
-            "melon",
-            "cherry",
-            "plum",
-            "apricot"
-        };
+        var words = WordleContext.GetWordsByLength(5);
+       
+        
         var random = new Random();
         var word = words[random.Next(words.Count)];
         ViewBag.Word = word;
